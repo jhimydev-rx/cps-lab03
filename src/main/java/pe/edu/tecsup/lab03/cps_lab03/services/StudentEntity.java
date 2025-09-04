@@ -10,6 +10,6 @@ package pe.edu.tecsup.lab03.cps_lab03.services;
  */
 public class StudentEntity {
     public StudentEntity(){
-        System.out.println("Hola");
+        System.out.println("Hola soy el Responsable");
     }
 }
