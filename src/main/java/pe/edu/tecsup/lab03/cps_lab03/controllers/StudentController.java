@@ -10,6 +10,7 @@ package pe.edu.tecsup.lab03.cps_lab03.controllers;
  */
 public class StudentController {
     public StudentController(){
-        System.out.println("Hola");
+        System.out.println("Hola soy el responsable"
+                );
     }
 }
