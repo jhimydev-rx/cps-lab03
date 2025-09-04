@@ -9,5 +9,7 @@ package pe.edu.tecsup.lab03.cps_lab03.repositories;
  * @author chboy
  */
 public class StudentRepository {
-    
+    public StudentRepository(){
+        System.out.println("Hola");
+    }
 }
