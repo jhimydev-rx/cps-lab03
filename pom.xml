@@ -10,4 +10,5 @@
         <maven.compiler.release>24</maven.compiler.release>
         <exec.mainClass>pe.edu.tecsup.lab03.cps_lab03.Cps_lab03</exec.mainClass>
     </properties>
+    <name>cps_lab03-clonado</name>
 </project>
